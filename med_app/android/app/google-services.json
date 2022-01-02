@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672037675942",
+    "project_id": "med-events-1ecf2",
+    "storage_bucket": "med-events-1ecf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672037675942:android:55a0d5129b8a794a5b6567",
+        "android_client_info": {
+          "package_name": "com.example.med_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672037675942-pn44pjrdba2qtu3hf04gfgttiqm3hf8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9jxe93T13ZQD4PlE25T6me2fGsMlOJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672037675942-pn44pjrdba2qtu3hf04gfgttiqm3hf8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
